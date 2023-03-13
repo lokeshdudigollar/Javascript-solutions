@@ -1,0 +1,1 @@
+Write a function that checks if a given US phone number is valid or not

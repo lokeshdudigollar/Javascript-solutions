@@ -1,0 +1,1 @@
+Convert a given string into an url
